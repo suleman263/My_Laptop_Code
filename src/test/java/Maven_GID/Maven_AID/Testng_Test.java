@@ -11,6 +11,6 @@ public void Testng_Message()
 @Test()
 public void Testng_Message1()
 {
-	System.out.println("From TestNG");
+	System.out.println("From TestNG2");
 }
 }
