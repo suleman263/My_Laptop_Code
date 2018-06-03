@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-06-03T03:13:32Z" name="Command line suite" finished-at="2018-06-03T03:13:32Z" duration-ms="96">
+    <groups>
+    </groups>
+    <test started-at="2018-06-03T03:13:32Z" name="Command line test" finished-at="2018-06-03T03:13:32Z" duration-ms="96">
+      <class name="Maven_GID.Maven_AID.Testng_Test">
+        <test-method signature="Testng_Message()[pri:0, instance:Maven_GID.Maven_AID.Testng_Test@5bd03f44]" started-at="2018-06-03T03:13:32Z" name="Testng_Message" finished-at="2018-06-03T03:13:32Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testng_Message -->
+        <test-method signature="Testng_Message1()[pri:0, instance:Maven_GID.Maven_AID.Testng_Test@5bd03f44]" started-at="2018-06-03T03:13:32Z" name="Testng_Message1" finished-at="2018-06-03T03:13:32Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testng_Message1 -->
+      </class> <!-- Maven_GID.Maven_AID.Testng_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
